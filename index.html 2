@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <hr color="yellow" size="10">
+    <hr color="pink" size="20">
+    <hr color="skyblue" size="10">
+    <center>
+        <font face="Edwardian script ITC" size="20"> <b><u>Quiz Competition</u></b></font> <br> <br>
+        <details>
+            <summary>Q:01 &nbsp;&nbsp;&nbsp; HTML stands for ?</summary>
+            <input type="radio" name="html" value="a"> hyper taxi markup language <br>
+            <input type="radio" name="html" value="b"> hyper text markup language <br>
+            <input type="radio" name="html" value="c"> hyper text makeup language <br>
+            <input type="radio" name="html" value="d"> hyper texy markup link <br>
+        </details> <br> <br> <br>
+        <details>
+            <summary>Q:02 &nbsp;&nbsp;&nbsp; CSS stands for ?</summary>
+            <input type="radio" name="html" value="a"> Cascading Style Sheets.<br>
+            <input type="radio" name="html" value="b">Cascading layout Sheets.<br>
+            <input type="radio" name="html" value="c">Cascading Style Sheet. <br>
+            <input type="radio" name="html" value="d"> Case Style Sheets. <br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:03 &nbsp;&nbsp;&nbsp; JS stands for ?</summary>
+            <input type="radio" name="html" value="a"> Javascript <br>
+            <input type="radio" name="html" value="b"> javaSCRIPT<br>
+            <input type="radio" name="html" value="c"> javascript <br>
+            <input type="radio" name="html" value="d">  JavaScript <br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:04 &nbsp;&nbsp;&nbsp;  which tag is used for headind?</summary>
+            <input type="radio" name="html" value="a"> h1-h6 tag<br>
+            <input type="radio" name="html" value="b"> p tag <br>
+            <input type="radio" name="html" value="c"> hr tag <br>
+            <input type="radio" name="html" value="d"> u tag <br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:05 &nbsp;&nbsp;&nbsp; html based on ?</summary>
+            <input type="radio" name="html" value="a"> text structure <br>
+            <input type="radio" name="html" value="b"> styling <br>
+            <input type="radio" name="html" value="c"> functonality <br>
+            <input type="radio" name="html" value="d"> program<br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:06 &nbsp;&nbsp;&nbsp; hr tag used for ?</summary>
+            <input type="radio" name="html" value="a"> horizontal line <br>
+            <input type="radio" name="html" value="b">vertical line <br>
+            <input type="radio" name="html" value="c"> horizontal ruler <br>
+            <input type="radio" name="html" value="d">ruler <br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:07 &nbsp;&nbsp;&nbsp; p tag used for ?</summary>
+            <input type="radio" name="html" value="a"> paragraph <br>
+            <input type="radio" name="html" value="b"> heading <br>
+            <input type="radio" name="html" value="c"> comment <br>
+            <input type="radio" name="html" value="d"> texarea<br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:08 &nbsp;&nbsp;&nbsp; for image which tag is used ?</summary>
+            <input type="radio" name="html" value="a"> image tag <br>
+            <input type="radio" name="html" value="b"> source tag <br>
+            <input type="radio" name="html" value="c"> img tag <br>
+            <input type="radio" name="html" value="d"> all above <br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:09 &nbsp;&nbsp;&nbsp; u tag is used for ?</summary>
+            <input type="radio" name="html" value="a"> italic <br>
+            <input type="radio" name="html" value="b"> underline <br>
+            <input type="radio" name="html" value="c"> bold <br>
+            <input type="radio" name="html" value="d">none of these  <br>
+        </details> <br> <br> <br> <details>
+            <summary>Q:10 &nbsp;&nbsp;&nbsp; B tag is used for?</summary>
+            <input type="radio" name="html" value="a" > border  <br>
+            <input type="radio" name="html" value="b">undeerline <br>
+            <input type="radio" name="html" value="c">bold <br>
+            <input type="radio" name="html" value="d"> none of these <br>
+        </details> 
+          
+ <br> <br> <br>
+  <a href="images.jpg"> <img src="images.png" width="100"></a> 
+</center>
+<hr color="yellow" size="10">
+<hr color="pink" size="20">
+<hr color="skyblue" size="10">
+
+
+</body>
+</html>
